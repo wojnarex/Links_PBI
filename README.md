@@ -1,5 +1,8 @@
 ## Links_PBI
 
+### Blogs:
+https://powerbusiness.pl/blog/
+
 ### E-books:
 Kimball Dimensional Modeling Techniques http://www.kimballgroup.com/wp-content/uploads/2013/08/2013.09-Kimball-Dimensional-Modeling-Techniques11.pdf
 
