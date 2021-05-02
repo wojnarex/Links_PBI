@@ -47,5 +47,8 @@ https://www.proserveit.com/blog/power-bi-usage-metrics-across-all-workspaces
 ### Tabular Editor:
 https://github.com/TabularEditor/BestPracticeRules
 
+### Business Cases
+https://powerbusiness.pl/2020/11/11/powerbi_5-porownywanie-dwoch-roznych-okresow/
+
 
 
